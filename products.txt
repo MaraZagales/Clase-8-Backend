@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Escritorio",
+    "price": 15000,
+    "thumbnail": "https://d2o812a6k13pkp.cloudfront.net/fit-in/1080x1080/Productos/40467996_0420220809153028.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Rack Tv",
+    "price": 20000,
+    "thumbnail": "https://d2o812a6k13pkp.cloudfront.net/fit-in/1080x1080/Productos/40467996_0420220809153028.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mesa Ratona",
+    "price": 10000,
+    "thumbnail": "https://d2o812a6k13pkp.cloudfront.net/fit-in/1080x1080/Productos/40467996_0420220809153028.jpg"
+  }
+]
